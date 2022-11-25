@@ -1,10 +1,10 @@
 <h1>INTEGRANTES DO GRUPO<h1/>
   
   
-  <lu>Ralph Teixeira<lu/><p>
-      <lu>Thiago Arica<lu/><p>
-          <lu>Gabriel Primieri<lu/><p>
-              <lu>Weden B<lu/><p>
-                  <lu>Victor Sa<lu/>
+  <li>Ralph Teixeira<li/><p>
+      <li>Thiago Arica<li/><p>
+          <li>Gabriel Primieri<li/><p>
+              <li>Weden B<lu/><p>
+                  <li>Victor Sa<li/>
                     
 
