@@ -1,10 +1,18 @@
 <h1>INTEGRANTES DO GRUPO<h1/>
   
   
-  <li>Ralph Teixeira</li><p>
-      <li>Thiago Arica</li><p>
-          <li>Gabriel Primieri</li><p>
-              <li>Weden B</li><p>
-                  <li>Victor Sa</li>
+  
+<li>Ralph Teixeira</li><p>
+      
+<li>Thiago Arica</li><p>
+          
+<li>Gabriel Primieri</li><p>
+              
+<li>Weden B</li><p>
+                 
+
+
+
+ <li>Victor Sa</li>   <a href = "mailto:victor.rsa@mercadolivre.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
                     
 
